@@ -1,6 +1,17 @@
 UNIFACISA - Centro Universitário
 Alunos: WALNEY NEGREIROS GOMES, THIAGO DINIZ
 
+IMAGENS DO PROJETO
+
+https://github.com/walneygomes/LaboratorioSI-Microservice/blob/master/configservice.png
+
+CONFIGSERVER
+https://github.com/walneygomes/LaboratorioSI-Microservice/blob/master/esquema.png
+
+MICROSERVICE
+https://github.com/walneygomes/LaboratorioSI-Microservice/blob/master/eurekaserviceaplication.png
+
+
 
 Projeto LSI microservice UNIVERSIDADE XYZ
 Exemplo de configuração usando o spring cloud
