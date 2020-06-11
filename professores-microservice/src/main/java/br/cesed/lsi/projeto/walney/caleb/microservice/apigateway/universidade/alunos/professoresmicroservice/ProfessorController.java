@@ -10,8 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/insurance-config-server/professores")
-
 public class ProfessorController {
 
 	@GetMapping("/professores")

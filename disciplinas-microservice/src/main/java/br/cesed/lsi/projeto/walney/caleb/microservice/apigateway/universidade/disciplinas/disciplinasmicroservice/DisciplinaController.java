@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 
  
 @RestController
-@RequestMapping("/insurance-config-server/disciplinas")
 public class DisciplinaController {
 
 	
