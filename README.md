@@ -39,9 +39,13 @@ Lê as configurações do github dos projetos abaixo:
 
 MicroService: 
 http://localhost:9010/aluno/default
+
 http://localhost:9090/professores/default
+
 http://localhost:9091/matriculas/default
+
 http://localhost:8080/cursos/default
+
 http://localhost:9092/disciplinas/default
 
 Eureka:
